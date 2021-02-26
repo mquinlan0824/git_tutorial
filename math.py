@@ -1,5 +1,6 @@
 # I need to implement this
 def add(x,y):
+    print(type(x))
     if (type(x)==int and type(y)==int):
         return x + y
     return None
