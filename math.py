@@ -7,7 +7,6 @@ def add(x,y):
 
 # Bob needs to implement this
 def mult(x,y):
-    print(type(x))
     if (type(x)==int and type(y)==int):
         return x * y
     return None
