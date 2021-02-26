@@ -5,7 +5,7 @@ def add(x,y):
 
 # Bob needs to implement this
 def mult(x,y):
-    return None
+    return x*y
 
 z = add(4,5)
 print(z)
